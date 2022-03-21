@@ -10,3 +10,7 @@ O objetivo do projeto foi recriar uma interface do projeto da Netflix usando tec
   <li>Javascript</li>
   <li>ReactJS</li>
 </ul>
+
+# Autor
+<p><b>Lucas Magno Barros Lisbôa</b></p>
+<p><a href="https://www.linkedin.com/in/lucasmlisboa/" >LinkedIn</a></p>
