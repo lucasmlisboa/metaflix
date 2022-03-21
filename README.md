@@ -1,9 +1,9 @@
-# Clone da Netflix
+# Projeto: Clone da Netflix
 <h3> Sobre o projeto </h3>
 <p>Esse rescurso foi criado para colocar em prática os conhecimentos adquiridos no curso de HTML, CSS e Javascript da Digital Inovation One de um projeto Frontend Web.
 O objetivo do projeto foi recriar uma interface do projeto da Netflix usando tecnologias simples como HTML5, CSS3, javascript e ReactJS, além de englobar os conceitos de como estruturar layouts, técnicas de CSS3 com conteiners e variáveis.</p>
 
-# Tecnlogias utilizadas
+# Tecnologias utilizadas
 <ul>
   <li>HTML</li>
   <li>CSS</li>
@@ -12,6 +12,8 @@ O objetivo do projeto foi recriar uma interface do projeto da Netflix usando tec
 </ul>
 
 # Autor
-<p><b>Lucas Magno Barros Lisbôa</b></p>
-<p><a href="https://www.linkedin.com/in/lucasmlisboa/" >LinkedIn</a></p>
-<a href = "mailto:lucasmlisboa32@gmail.com"></a>
+<p><i><b>Lucas Magno Barros Lisbôa</b></i></p>
+ <div> 
+   <a href = "mailto:lucasmlisboa32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucasmlisboa/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
