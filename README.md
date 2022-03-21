@@ -14,3 +14,4 @@ O objetivo do projeto foi recriar uma interface do projeto da Netflix usando tec
 # Autor
 <p><b>Lucas Magno Barros Lisbôa</b></p>
 <p><a href="https://www.linkedin.com/in/lucasmlisboa/" >LinkedIn</a></p>
+<a href = "mailto:lucasmlisboa32@gmail.com"></a>
